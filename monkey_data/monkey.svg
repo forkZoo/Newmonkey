@@ -52,11 +52,11 @@
 <rect width="400" height="400" fill="#1A0A00"/>
 <rect x="0" y="340" width="400" height="60" fill="#FF4500" opacity="0.6"/>
 <circle cx="30" cy="375" r="6" fill="#FF6600"/>
-<circle cx="271" cy="375" r="7" fill="#FF6600"/>
-<circle cx="172" cy="375" r="8" fill="#FF6600"/>
-<circle cx="73" cy="375" r="9" fill="#FF6600"/>
-<circle cx="314" cy="375" r="6" fill="#FF6600"/>
-<circle cx="215" cy="375" r="7" fill="#FF6600"/>
+<circle cx="270" cy="375" r="7" fill="#FF6600"/>
+<circle cx="170" cy="375" r="8" fill="#FF6600"/>
+<circle cx="70" cy="375" r="9" fill="#FF6600"/>
+<circle cx="310" cy="375" r="6" fill="#FF6600"/>
+<circle cx="210" cy="375" r="7" fill="#FF6600"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#C0C0C0" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -66,7 +66,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#C0C0C0" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#E8E8E8" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="219" y="223" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="168" y="176" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="257" y="269" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="206" y="222" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="155" y="175" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="244" y="268" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
+<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="170" y="230" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="210" y="190" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="250" y="150" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="150" y="250" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="190" y="210" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="230" y="170" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -84,7 +84,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
-<ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
+
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
