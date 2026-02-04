@@ -52,11 +52,11 @@
 <rect width="400" height="400" fill="#1A0A00"/>
 <rect x="0" y="340" width="400" height="60" fill="#FF4500" opacity="0.6"/>
 <circle cx="30" cy="375" r="6" fill="#FF6600"/>
-<circle cx="43" cy="375" r="7" fill="#FF6600"/>
-<circle cx="56" cy="375" r="8" fill="#FF6600"/>
-<circle cx="69" cy="375" r="9" fill="#FF6600"/>
-<circle cx="82" cy="375" r="6" fill="#FF6600"/>
-<circle cx="95" cy="375" r="7" fill="#FF6600"/>
+<circle cx="65" cy="375" r="7" fill="#FF6600"/>
+<circle cx="100" cy="375" r="8" fill="#FF6600"/>
+<circle cx="135" cy="375" r="9" fill="#FF6600"/>
+<circle cx="170" cy="375" r="6" fill="#FF6600"/>
+<circle cx="205" cy="375" r="7" fill="#FF6600"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#C0C0C0" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -71,12 +71,10 @@
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="20" fill="#E6E6FA" filter="url(#glow)"/>
-<circle cx="162" cy="185" r="10" fill="#9370DB"/>
-<circle cx="162" cy="185" r="4" fill="#FFF"/>
-<ellipse cx="238" cy="185" rx="18" ry="20" fill="#E6E6FA" filter="url(#glow)"/>
-<circle cx="238" cy="185" r="10" fill="#9370DB"/>
-<circle cx="238" cy="185" r="4" fill="#FFF"/>
+<ellipse cx="162" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="162" cy="187" rx="10" ry="5" fill="#3D2314"/>
+<ellipse cx="238" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="238" cy="187" rx="10" ry="5" fill="#3D2314"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
             <ellipse cx="200" cy="230" rx="22" ry="15" fill="#A0522D"/>
@@ -84,11 +82,13 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
+<line x1="150" y1="158" x2="174" y2="158" stroke="#5D2E0C" stroke-width="2"/>
+<line x1="226" y1="158" x2="250" y2="158" stroke="#5D2E0C" stroke-width="2"/>
 
 
 <g transform="translate(325, 15)">
-            <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
-            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">UNCOMMON</text>
+            <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
+            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
         </g>
         <g transform="translate(10, 15)">
             <rect width="45" height="22" rx="4" fill="#333" opacity="0.8"/>
