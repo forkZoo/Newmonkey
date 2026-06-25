@@ -52,11 +52,11 @@
 <rect width="400" height="400" fill="#1A0A00"/>
 <rect x="0" y="340" width="400" height="60" fill="#FF4500" opacity="0.6"/>
 <circle cx="30" cy="375" r="6" fill="#FF6600"/>
-<circle cx="281" cy="375" r="7" fill="#FF6600"/>
-<circle cx="192" cy="375" r="8" fill="#FF6600"/>
-<circle cx="103" cy="375" r="9" fill="#FF6600"/>
-<circle cx="354" cy="375" r="6" fill="#FF6600"/>
-<circle cx="265" cy="375" r="7" fill="#FF6600"/>
+<circle cx="323" cy="375" r="7" fill="#FF6600"/>
+<circle cx="276" cy="375" r="8" fill="#FF6600"/>
+<circle cx="229" cy="375" r="9" fill="#FF6600"/>
+<circle cx="182" cy="375" r="6" fill="#FF6600"/>
+<circle cx="135" cy="375" r="7" fill="#FF6600"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#D2B48C" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -66,7 +66,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#D2B48C" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#E8D4B8" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="273" y="197" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="266" y="274" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="259" y="191" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="252" y="268" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="245" y="185" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="238" y="262" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="231" y="179" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><rect x="90" y="100" width="220" height="12" fill="#000" opacity="0.08" transform="rotate(-15 200 200)"/><rect x="90" y="135" width="220" height="12" fill="#000" opacity="0.08" transform="rotate(-15 200 200)"/><rect x="90" y="170" width="220" height="12" fill="#000" opacity="0.08" transform="rotate(-15 200 200)"/><rect x="90" y="205" width="220" height="12" fill="#000" opacity="0.08" transform="rotate(-15 200 200)"/><rect x="90" y="240" width="220" height="12" fill="#000" opacity="0.08" transform="rotate(-15 200 200)"/><rect x="90" y="275" width="220" height="12" fill="#000" opacity="0.08" transform="rotate(-15 200 200)"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
