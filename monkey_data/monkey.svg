@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#FFD700" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFEC8B" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="227" y="223" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="174" y="166" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="121" y="269" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="228" y="212" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="175" y="155" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="122" y="258" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="229" y="201" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="143" y="187" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="166" y="254" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="189" y="161" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="212" y="228" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="235" y="135" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="258" y="202" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="121" y="269" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -80,7 +80,7 @@
         </g>
 <ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
 <ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
-<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+<ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
